@@ -12,10 +12,6 @@
 #dbo.SampleMetadataAFDM, dbo.SampleMetadataBenthos, dbo.SampleMetadataChloraA and dbo.SampleMetadataPeriphyton.<br>
 #2) Exports the above table records by defined year to a defined output directory and defined excel file output name
 
-# Output:
-# An excel spreadsheet with Tables SOP8-1 (i.e. Average Distance from Ground Truth Values), Tables SOP8-2 By region (three total) with the the Absolute Vegetation by Region, Location Name (i.e. Point on Segment),
-# by Community Type, and by Taxon, and a pdf file withe Figures SOP8-3 by region (three total) with the Absolute Cover By Region, By Community, By Strata.
-
 # Dependencies:
 # Python version 3.9
 # Packages: Pandas and pyodbc
